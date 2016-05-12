@@ -312,7 +312,7 @@ public class DeviceControlActivity extends Activity implements OnCancelListener 
 		bindService(gattServiceIntent, mServiceConnection, BIND_AUTO_CREATE);
 		enableDisableView(mlayout_container, false);
 	    registerReceiver(mGattUpdateReceiver, makeGattUpdateIntentFilter());
-this.reg
+
 	    mlayout_container.setBackgroundResource(R.drawable.grid);
 	    
 	    mydialog = new Dialog(this);
