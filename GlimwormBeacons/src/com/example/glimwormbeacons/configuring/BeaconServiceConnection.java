@@ -1,7 +1,5 @@
 package com.example.glimwormbeacons.configuring;
 
-import com.polkapolka.bluetooth.le.BluetoothLeService;
-
 import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Intent;

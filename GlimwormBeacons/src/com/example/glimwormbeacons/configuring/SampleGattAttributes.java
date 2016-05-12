@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.polkapolka.bluetooth.le;
+package com.example.glimwormbeacons.configuring;
 
 import java.util.HashMap;
 
